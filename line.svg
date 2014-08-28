@@ -8,7 +8,10 @@
 
 <polygon points="350,75 379,133, 234,31, 424,23, 350,250 277,301 303,215 231,161 321,161" fill="#531242" ></polygon>
 
-<text x="0" y="56" style="font-family: Helvetica,Arial, sans-serif; font-weight:bold; font-size:34; fill:#35f2d2; ">Hello World!</text>
+<text x="0" y="56" style="font-family: Helvetica,Arial, sans-serif; font-weight:bold; font-size:34; fill:#35f2d2; ">Hello World! 在什么时候</text>
 
-<path id="path1" d="M160.143,196c0,0,62.777-28.033,90-17.143c71.428,28.572,73.952-25.987,84.286-21.428" style="fill:none;stroke:2;"></path>  
+<path id="path1" d="M160,196 c0,0,62.777-28.033,90-17.143 c71.428,28.572,73.952-25.987,84.286-21.428" style="fill:#dd2;stroke:6;"></path>  
+
+
+<path d="M300,300 c50,50 45,60 45,60" style="stroke:blue; stroke-width=5"/>
 </svg>
