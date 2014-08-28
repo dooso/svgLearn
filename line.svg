@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<circle cx="100" cy="50" r="40" stroke="black" stroke-width="0" fill="red"/>
+<line x1="0" y1="100" x2="200" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"></line>
+<rect x="500" y="0" height="100" width="200" style="stroke: #70d5dd; fill: #dd524b" />
+<ellipse cx="100" cy="160" rx="60" ry="40" stroke="#cdd" stroke-width="5" fill="#2dd"></ellipse>
+
+<polygon points="350,75 379,133, 234,31, 424,23, 350,250 277,301 303,215 231,161 321,161" fill="#531242" ></polygon>
+
+<text x="0" y="56" style="font-family: Helvetica,Arial, sans-serif; font-weight:bold; font-size:34; fill:#35f2d2; ">Hello World!</text>
+
+<path id="path1" d="M160.143,196c0,0,62.777-28.033,90-17.143c71.428,28.572,73.952-25.987,84.286-21.428" style="fill:none;stroke:2;"></path>  
+</svg>
